@@ -19,9 +19,7 @@ Through combining **advanced AI, distributed systems, and scalable infrastructur
 
 ## 📦My Mood (Planned)
 
-**Joining xAI tech company :** projects in Rust, Go, Python, and C++ 
 
----
 
 ## 🛠️ Skills & Technologies
 
@@ -58,21 +56,7 @@ This is **my personal guru mood **.
 - 🚀 I am **ready to contribute immediately** to xAI’s mission  
 - 🌐 I understand the **real-world complexity of AI infrastructure, enterprise agents, and high-performance networks**  
 
-This is not a practice repo. It is **my golden ticket to xAI**.  
+
 
 ---
-
-## 📌 Current Applications
-
-I am applying to:
-
-1. **Rust/C++ Backend Engineer – grok.com & API**  
-2. **Rust/C++ Backend Engineer – Enterprise Agents**  
-3. **Software Engineer – Networking Software & Services**  
-
-This repository represents the **intersection of all three roles**, highlighting my **preparation, alignment, and ability to make an immediate impact**.
-
----
-
-> “I design systems that fail gracefully, scale predictably, and explain themselves. This is the standard I bring to xAI.”
 
