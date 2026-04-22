@@ -1,19 +1,7 @@
 ## Hello and welcome to my github in  in 17 languages 
 Spanish (Hola), French (Bonjour), German (Hallo), Italian (Ciao), Mandarin (Nǐ hǎo), Japanese (Konnichiwa), Hindi (Namaste), Russian (Zdravstvuyte), Korean (Annyeonghaseyo), Arabic (Marhaban), Portuguese (Olá), Swahili (Jambo), Greek (Yia sou), Polish (Cześć/Dzień dobry), Dutch (Hallo), Turkish (Merhaba), and Hebrew (Shalom) , dutch Hoi 👋
 
-## 🌟 My Story
 
-I am Mo, Mutwakil a software engineer passionate about **building scalable, reliable, and cutting-edge systems** that power AI at scale. My journey has focused on:
-
-- 🦀 Mastering **Rust, C++, Go, and Python** for production-grade engineering  
-- 🔄 Designing **distributed systems** that are resilient and observable  
-- 🤖 Orchestrating **AI workflows and enterprise agents** with real-world complexity  
-- 🌐 Automating and monitoring **AI-scale networking**  
-
-I have been preparing deliberately for the opportunity to join **xAI**, aligning my projects, skills, and mindset to their mission:  
-*“creating AI systems that understand the universe and accelerate humanity’s pursuit of knowledge.”*  
-
----
 
 ## 🌍 My Long-Term Vision
 
